@@ -1,4 +1,5 @@
 import Image from "next/image";
+import image from '../images/logo.png';
 
 function Header() {
     return (
@@ -7,7 +8,7 @@ function Header() {
         {/* left */}
         <div className="relative hidden lg:inline-grid h-24 w-24 cursor-pointer">
             <Image 
-            src= "https://links.papareact.com/ocw"
+            src= {image}
             layout="fill"
             objectFit="contain"
          />   
