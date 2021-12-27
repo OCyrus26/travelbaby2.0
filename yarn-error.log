@@ -31,17 +31,38 @@ npm manifest:
     },
     "dependencies": {
   <<<<<<< HEAD
+  <<<<<<< HEAD
+  <<<<<<< HEAD
+  <<<<<<< HEAD
+  <<<<<<< HEAD
   
   
+  
+  =======
+  >>>>>>> parent of 4b58466 (fixed)
+  =======
+  >>>>>>> parent of 4b58466 (fixed)
+  =======
+  >>>>>>> parent of 4b58466 (fixed)
       "@heroicons/react": "^1.0.5",
       "@tailwindcss/forms": "^0.4.0",
-  
+  =======
+  >>>>>>> parent of 57f7133 (header)
   =======
   >>>>>>> parent of 57f7133 (header)
       "next": "latest",
+  <<<<<<< HEAD
+  <<<<<<< HEAD
+  <<<<<<< HEAD
   
-      "next": "^11.1.2",
   
+  
+  =======
+  >>>>>>> parent of 4b58466 (fixed)
+  =======
+  >>>>>>> parent of 4b58466 (fixed)
+  =======
+  >>>>>>> parent of 4b58466 (fixed)
       "react": "^17.0.2",
       "react-dom": "^17.0.2"
     },
