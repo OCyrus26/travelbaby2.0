@@ -6,11 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
+<<<<<<< HEAD
 
 
 
     "@heroicons/react": "^1.0.5",
     "@tailwindcss/forms": "^0.4.0",
+=======
+>>>>>>> parent of 57f7133 (header)
     "next": "latest",
 
 
